@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chillflix</string>
+    <string name="add_movies_to_db">Add Movies to DB</string>
+    <string name="search_for_movies">Search for Movies</string>
+    <string name="search_for_actors">Search for Actors</string>
+    <string name="save_movie_to_db">Save Movie to DB</string>
+    <string name="retrieve_movie">Retrieve Movie</string>
+    <string name="type_movie_name_here">Type Movie Name Here</string>
+    <string name="display_movie_details"> </string>
+    <string name="display_actors_movies">Nothing to Display Yet..</string>
+    <string name="result">Movies:\n</string>
+    <string name="search">Search</string>
+    <string name="type_actor_s_name_here">Type Actor\'s Name Here</string>
+    <string name="retrieve_movies_from_web">Retrieve Movies From Web</string>
+    <string name="input_for_web_search">Type movie name here</string>
+    <string name="tv" />
+
+</resources>
